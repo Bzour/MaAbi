@@ -74,15 +74,15 @@ mots.addMot("Bientôt 3 ans que l'on s'aime de cette manière ; Bientôt 10 ans 
     "Photos/photo_15.jpg");
 
 mots.addMot("Bientôt 3 ans que l'on s'aime de cette manière ; Bientôt 10 ans que nos chemins convergent, que nos choix sont guidés par l'envie, l'espoir de rester ensemble", 
-    "2020-11-24", 
+    "2020-11-25", 
     "Photos/photo_4.jpg");
 
 mots.addMot("Je te n'oublie pas ; Je pense à toi chaque seconde. Dans mon coeur tu es avec moi.",
-    "2020-11-24", 
+    "2020-11-26", 
     "Photos/photo_13.jpg");
 
 mots.addMot("Je sais que parfois tu en doute, je sais que parfois tu en souffre. Cesses de te trouver laide, je souhaites que tu prennes mes yeux. Je souhaite que comme moi, ta beautée te subjugue.", 
-    "2020-11-24", 
+    "202-11-27", 
     "Photos/photo_6.jpg");
 
 // mots.addMot("", 
