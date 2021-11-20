@@ -1,4 +1,5 @@
 const baseUrl = "file:///C:/Users/jlelo/OneDrive/Documents/Jean/Code/PourMaAbi/";
+const baseUrl = "https://github.com/Bzour/MaAbi/blob/master/";
 
 function yyymmdd(d) {
   var mm = d.getMonth() + 1; // getMonth() is zero-based
