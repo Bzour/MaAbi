@@ -1,5 +1,4 @@
 // const baseUrl = "file:///C:/Users/jlelo/OneDrive/Documents/Jean/Code/PourMaAbi/";
-const baseUrl = "https://github.com/Bzour/MaAbi/blob/master/";
 
 function yyymmdd(d) {
   var mm = d.getMonth() + 1; // getMonth() is zero-based
@@ -24,7 +23,7 @@ class Mot {
 
         return `
             <div class="card">
-                <img src="${baseUrl + this.imgUrl}" class="card__image" alt="brown couch" />
+                <img src="${this.imgUrl}" class="card__image" alt="brown couch" />
                 <div class="card__content">
                     <time datetime="${date}" class="card__date">${date}</time>
                     <span class="card__title">${this.mot}<span>
