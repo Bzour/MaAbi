@@ -54,39 +54,39 @@ class Mots {
 let mots = new Mots();
 
 mots.addMot("Ma chérie. Je ne veux pas que tu perde courage, chaque jours je veux que tu te réveille en te rappelant que je t'aime. Rappelle toi des boites d'alumettes ! En voici la version moderne", 
-    "2020-11-21", 
+    "2021-11-21", 
     "Photos/photo_8.jpg");
 
 mots.addMot("Cela fait 1 ans et 11 mois ma chérie. 23 Mois que je t'aime, chaque jours plus que la veille",
-    "2020-11-21", 
+    "2021-11-21", 
     "Photos/photo_17.jpg");
 
 mots.addMot("N'ai jamais peur que je t'abandonne. Ta maladie ne te rend pas moins belle à mes yeux !", 
-    "2020-11-22", 
+    "2021-11-22", 
     "Photos/photo_9.jpg");
 
 mots.addMot("J'admire le courage que tu as, le courage de rester forte malgré cette épreuve, de continuer de te soucier avant tout de ton mari et de ton Dieu.  ", 
-    "2020-11-23", 
+    "2021-11-23", 
     "Photos/photo_19.jpg");
 
 mots.addMot("Bientôt 3 ans que l'on s'aime de cette manière ; Bientôt 10 ans que nos chemins convergent, que nos choix sont guidés par l'envie, l'espoir de rester ensemble", 
-    "2020-11-24", 
+    "2021-11-24", 
     "Photos/photo_15.jpg");
 
 mots.addMot("Bientôt 3 ans que l'on s'aime de cette manière ; Bientôt 10 ans que nos chemins convergent, que nos choix sont guidés par l'envie, l'espoir de rester ensemble", 
-    "2020-11-25", 
+    "2021-11-25", 
     "Photos/photo_4.jpg");
 
 mots.addMot("Je te n'oublie pas ; Je pense à toi chaque seconde. Dans mon coeur tu es avec moi.",
-    "2020-11-26", 
+    "2021-11-26", 
     "Photos/photo_13.jpg");
 
 mots.addMot("Je sais que parfois tu en doute, je sais que parfois tu en souffre. Cesses de te trouver laide, je souhaites que tu prennes mes yeux. Je souhaite que comme moi, ta beautée te subjugue.", 
-    "202-11-27", 
+    "2021-11-27", 
     "Photos/photo_6.jpg");
 
 // mots.addMot("", 
-//     "2020-11-24", 
+//     "2021-11-24", 
 //     "Photos/photo_15.jpg");
 
 document.getElementById("mots").innerHTML = mots.derniersMotsAsHtml;
