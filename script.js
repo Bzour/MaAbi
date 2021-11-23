@@ -85,8 +85,16 @@ mots.addMot("Je sais que parfois tu en doute, je sais que parfois tu en souffre.
     "2021-11-27", 
     "Photos/photo_6.jpg");
 
-// mots.addMot("", 
-//     "2021-11-24", 
-//     "Photos/photo_15.jpg");
+mots.addMot("Même si nous ne nous imaginions paxs fêter nos deux ans dans ces conditions, qu'importe ce qu'il se passe le 21, cela fait deux ans que je ne pense qu'a toi et à notre amour.", 
+    "2021-11-28", 
+    "Photos/photo_10.jpg");
+
+mots.addMot("Tu t'es donnée pour les autres, et nos amis se donnent pour nous. Tu es magnifiquement entourée", 
+    "2021-11-29", 
+    "Photos/photo_20.jpg");
+
+mots.addMot("Les feuilles tombent, l'automne s'installe. Mais à jamais fleuriront ces moments, ces souvenirs en devenir que nous créons chaque instant",
+    "2021-11-30", 
+    "Photos/photo_5.jpg");
 
 document.getElementById("mots").innerHTML = mots.derniersMotsAsHtml;
