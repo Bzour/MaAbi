@@ -73,7 +73,7 @@ mots.addMot("Bientôt 3 ans que l'on s'aime de cette manière ; Bientôt 10 ans 
     "2021-11-24", 
     "Photos/photo_15.jpg");
 
-mots.addMot("Je te n'oublie pas ; Je pense à toi chaque seconde. Dans mon coeur tu es avec moi.",
+mots.addMot("Je ne t'oublie pas ; Je pense à toi chaque seconde. Dans mon coeur tu es avec moi.",
     "2021-11-25", 
     "Photos/photo_13.jpg");
 
