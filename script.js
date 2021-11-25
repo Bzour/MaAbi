@@ -45,7 +45,7 @@ class Mots {
 
     get derniersMotsAsHtml() {
         let a = this.mots.sort(x => x.date);
-        return (this.mots.sort((x, y) => x.date < y.date).filter(x => x.date <= Date.now()).slice(0, this.nb)).map(x => x.htmlRepresentation).join();
+        return (this.mots.sort((x, y) => x.date < y.date).filter(x => x.date <= Date.now()).slice(0, this.nb)).map(x => x.htmlRepresentation).join('');
     }
 
 
