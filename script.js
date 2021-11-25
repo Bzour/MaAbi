@@ -47,8 +47,6 @@ class Mots {
         let a = this.mots.sort(x => x.date);
         return (this.mots.sort((x, y) => x.date < y.date).filter(x => x.date <= Date.now()).slice(0, this.nb)).map(x => x.htmlRepresentation).join('');
     }
-
-
 }
 
 let mots = new Mots();
@@ -92,5 +90,25 @@ mots.addMot("Tu t'es donnée pour les autres, et nos amis se donnent pour nous. 
 mots.addMot("Les feuilles tombent, l'automne arrive avec un souffle de vent. Mais à jamais fleuriront ces moments, ces souvenirs en devenir que nous créons chaque instant",
     "2021-11-29", 
     "Photos/photo_5.jpg");
+
+mots.addMot("J'ai promis de faire passer ton bonheur en premier dans ma vie, n'ai pas peur, on fera ce qu'il faut pour que tu sois heureuse ; Qu'importe ce qui doit être laissé de côté pour cela.",
+    "2021-11-30", 
+    "Photos/photo_21.jpg");
+
+mots.addMot("Abandonner une préférence personnelle pour toi n'est jamais un sacrifice ; Te rendre heureuse me comble.",
+    "2021-12-1", 
+    "Photos/photo_22.jpg");
+
+mots.addMot("Tu t'excuses tout le temps, tu as peur de me déranger. Je ne t'excuse jamais, tu ne me dérange jamais assez.",
+    "2021-12-2", 
+    "Photos/photo_27.jpg");
+
+mots.addMot("Tombe la pluie, tombent les feuilles, tombe la neige. Ce qui a été est, le printemps s'épanouit dans nos coeurs amoureux.",
+    "2021-12-3", 
+    "Photos/photo_26.jpg");
+
+mots.addMot("L'amour c'est comme une boite de chocolat. Je voudrais être raisonnable, mais je n'y arrive pas. Si tu es devant moi, je t'embrasse !",
+    "2021-12-4", 
+    "Photos/photo_30.jpg");
 
 document.getElementById("mots").innerHTML = mots.derniersMotsAsHtml;
