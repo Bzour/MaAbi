@@ -73,28 +73,24 @@ mots.addMot("Bientôt 3 ans que l'on s'aime de cette manière ; Bientôt 10 ans 
     "2021-11-24", 
     "Photos/photo_15.jpg");
 
-mots.addMot("Bientôt 3 ans que l'on s'aime de cette manière ; Bientôt 10 ans que nos chemins convergent, que nos choix sont guidés par l'envie, l'espoir de rester ensemble", 
-    "2021-11-25", 
-    "Photos/photo_4.jpg");
-
 mots.addMot("Je te n'oublie pas ; Je pense à toi chaque seconde. Dans mon coeur tu es avec moi.",
-    "2021-11-26", 
+    "2021-11-25", 
     "Photos/photo_13.jpg");
 
 mots.addMot("Je sais que parfois tu en doute, je sais que parfois tu en souffre. Cesses de te trouver laide, je souhaites que tu prennes mes yeux. Je souhaite que comme moi, ta beautée te subjugue.", 
-    "2021-11-27", 
+    "2021-11-26", 
     "Photos/photo_6.jpg");
 
 mots.addMot("Même si nous ne nous imaginions paxs fêter nos deux ans dans ces conditions, qu'importe ce qu'il se passe le 21, cela fait deux ans que je ne pense qu'a toi et à notre amour.", 
-    "2021-11-28", 
+    "2021-11-27", 
     "Photos/photo_10.jpg");
 
 mots.addMot("Tu t'es donnée pour les autres, et nos amis se donnent pour nous. Tu es magnifiquement entourée", 
-    "2021-11-29", 
+    "2021-11-28", 
     "Photos/photo_20.jpg");
 
-mots.addMot("Les feuilles tombent, l'automne s'installe. Mais à jamais fleuriront ces moments, ces souvenirs en devenir que nous créons chaque instant",
-    "2021-11-30", 
+mots.addMot("Les feuilles tombent, l'automne arrive avec un souffle de vent. Mais à jamais fleuriront ces moments, ces souvenirs en devenir que nous créons chaque instant",
+    "2021-11-29", 
     "Photos/photo_5.jpg");
 
 document.getElementById("mots").innerHTML = mots.derniersMotsAsHtml;
