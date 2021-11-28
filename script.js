@@ -79,7 +79,7 @@ mots.addMot("Je sais que parfois tu en doute, je sais que parfois tu en souffre.
     "2021-11-26", 
     "Photos/photo_6.jpg");
 
-mots.addMot("Même si nous ne nous imaginions paxs fêter nos deux ans dans ces conditions, qu'importe ce qu'il se passe le 21, cela fait deux ans que je ne pense qu'a toi et à notre amour.", 
+mots.addMot("Même si nous ne nous imaginions pas fêter nos deux ans dans ces conditions, qu'importe ce qu'il se passe le 21, cela fait deux ans que je ne pense qu'a toi et à notre amour.", 
     "2021-11-27", 
     "Photos/photo_10.jpg");
 
