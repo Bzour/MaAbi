@@ -36,7 +36,7 @@ class Mot {
 class Mots {
     constructor() {
         this.mots = new Array();
-        this.nb = 10;
+        this.nb = 999;
     }
 
     addMot(mot, date, url) {
@@ -45,14 +45,14 @@ class Mots {
 
     get derniersMotsAsHtml() {
         let a = this.mots.sort(x => x.date);
-        return (this.mots.sort((x, y) => x.date < y.date).filter(x => x.date <= Date.now()).slice(0, this.nb)).map(x => x.htmlRepresentation).join('');
+        return (this.mots.sort((x, y) => x.date < y.date ? 1 : -1).filter(x => x.date <= Date.now()).slice(0, this.nb)).map(x => x.htmlRepresentation).join('');
     }
 }
 
 let mots = new Mots();
 
 mots.addMot("Ma chérie. Je ne veux pas que tu perde courage, chaque jours je veux que tu te réveille en te rappelant que je t'aime. Rappelle toi des boites d'alumettes ! En voici la version moderne", 
-    "2021-11-21", 
+    "2021-11-20", 
     "Photos/photo_8.jpg");
 
 mots.addMot("Cela fait 1 ans et 11 mois ma chérie. 23 Mois que je t'aime, chaque jours plus que la veille",
