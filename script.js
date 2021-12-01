@@ -111,4 +111,28 @@ mots.addMot("L'amour c'est comme une boite de chocolat. Je voudrais être raison
     "2021-12-4", 
     "Photos/photo_30.jpg");
 
+mots.addMot("J'aime construire notre avenir avec toi. Mon avenir est merveilleux, car il est avec toi",
+    "2021-12-5", 
+    "Photos/photo_4.jpg");
+
+mots.addMot("Je pense à toi, chaque instant. Je t'aime.",
+    "2021-12-6", 
+    "Photos/photo_2.jpg");
+
+mots.addMot("Tu as peur de me déranger, j'ai peur qu'un jour tu n'ai plus besoin de moi. J'ai besoin de toi, et j'aime t'aider.",
+    "2021-12-7", 
+    "Photos/photo_32.jpg");
+
+mots.addMot("L'amour est un bijoux, le mariage un magnifique écrin. Merci Jéhovah !",
+    "2021-12-8", 
+    "Photos/photo_26.jpg");
+
+mots.addMot("Tant de merveilleux souvenir tous les deux. Nous écrivons l'histoire, la notre.",
+    "2021-12-9", 
+    "Photos/photo_24.jpg");
+
+// mots.addMot("",
+//     "2021-12-", 
+//     "Photos/photo_.jpg");
+
 document.getElementById("mots").innerHTML = mots.derniersMotsAsHtml;
