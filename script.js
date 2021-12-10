@@ -125,14 +125,58 @@ mots.addMot("Tu as peur de me déranger, j'ai peur qu'un jour tu n'ai plus besoi
 
 mots.addMot("L'amour est un bijoux, le mariage un magnifique écrin. Merci Jéhovah !",
     "2021-12-8", 
-    "Photos/photo_26.jpg");
+    "Photos/photo_25.jpg");
 
 mots.addMot("Tant de merveilleux souvenir tous les deux. Nous écrivons l'histoire, la notre.",
     "2021-12-9", 
     "Photos/photo_24.jpg");
 
-// mots.addMot("",
-//     "2021-12-", 
-//     "Photos/photo_.jpg");
+mots.addMot("Je t'aime, et je t'aimerai toute ma vie.",
+    "2021-12-10", 
+    "Photos/photo_1.jpg");
+
+mots.addMot("Quel bonheur d'être marié avec toi, quel joie de savoir que nous vivrons à jamais ensemble.",
+    "2021-12-11", 
+    "Photos/photo_7.jpg");
+
+mots.addMot("Pardon de n'être parfois pas aimable. Je déteste quand tu as l'impression que tu ne compte pas, alors que tu vaux tellement à mes yeux.",
+    "2021-12-12", 
+    "Photos/photo_11.jpg");
+
+mots.addMot("Islande, Venise. Bientôt !",
+    "2021-12-13", 
+    "Photos/photo_16.jpg");
+
+mots.addMot("Plus qu'une semaine...",
+    "2021-12-14", 
+    "Photos/photo_18.jpg");
+
+mots.addMot("... Mais encore tellement à venir !",
+    "2021-12-15", 
+    "Photos/photo_23.jpg");
+
+mots.addMot("Je n'arrive pas à trouver de mauvais souvenirs avec toi. Tu as embellis chaque moment passé ensemble",
+    "2021-12-16", 
+    "Photos/photo_28.jpg");
+
+mots.addMot("J'aime prêcher avec toi, j'aime étudier avec toi, j'aime servir Jéhovah à tes cotés.",
+    "2021-12-17", 
+    "Photos/photo_29.jpg");
+
+mots.addMot("Même s'il faudra réviser nos projets, nous servirons Jéhovah cote à cote toute notre vie",
+    "2021-12-18", 
+    "Photos/photo_31.jpg");
+
+mots.addMot("Coton pour la première année...",
+    "2021-12-19", 
+    "Photos/photo_12.jpg");
+
+mots.addMot("Mais j'espère que vous aimez le cuir pour la deuxième !",
+    "2021-12-20", 
+    "Photos/photo_3.jpg");
+
+mots.addMot("Happy 2 ans de mariage ma chérie ! Je t'aime.",
+    "2021-12-21", 
+    "Photos/photo_33.jpg");
 
 document.getElementById("mots").innerHTML = mots.derniersMotsAsHtml;
