@@ -179,4 +179,5 @@ mots.addMot("Happy 2 ans de mariage ma chérie ! Je t'aime.",
     "2021-12-21", 
     "Photos/photo_33.jpg");
 
+mots.addMot("Excuse moi pour hier soir s'il te plaît. Je t'aime ❤️", "2022-08-14", "Photos/photo_1.jpg");
 document.getElementById("mots").innerHTML = mots.derniersMotsAsHtml;
