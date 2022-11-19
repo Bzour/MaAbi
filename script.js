@@ -180,4 +180,98 @@ mots.addMot("Happy 2 ans de mariage ma chérie ! Je t'aime.",
     "Photos/photo_33.jpg");
 
 mots.addMot("Excuse moi pour hier soir s'il te plaît. Je t'aime ❤️", "2022-08-14", "Photos/photo_1.jpg");
+
+
+
+
+
+mots.addMot("Joyeux 2 ans et 11 mois de mariage ma chérie !",
+    "2022-11-21", 
+    "Photos/photo_40.jpg");
+
+mots.addMot("Je veux te rappeler quelques bons souvenirs de nos trois années bientôt révolues",
+    "2022-11-22", 
+    "Photos/photo_41.jpg");
+
+    mots.addMot("On avait prévu Venise la première année ! Au début c'était même une surprise que je te faisais. Mais le covid est passé par là...",
+    "2022-11-23", 
+    "Photos/photo_43.jpg");
+
+    mots.addMot("Moi, j'ai beaucoup aimé cet anniversaire de mariage. J'étais heureux de cuisiner pour toi, et j'ai été très heureux de passer deux semaines rien qu'avec toi, ça m'a rappelé notre voyage de noce.",
+    "2022-11-24", 
+    "Photos/photo_44.jpg");
+
+    mots.addMot("Tu étais très stressée durant cette journée du 21/20, comme souvent lors de nos dates importante. C'est allé croissant, heureusement que tu as eu chaton !",
+    "2022-11-25", 
+    "Photos/photo_48.jpg");
+
+    mots.addMot("Le confinement, moi je l'ai beaucoup aimé. C'est le seul long moment dont on a pu profiter tous les deux je crois ?",
+    "2022-11-26", 
+    "Photos/photo_42.jpg");
+
+    mots.addMot("Et puis bien sure, pendant ce confinement on a eu nos cours de pionnier !",
+    "2022-11-27", 
+    "Photos/photo_45.jpg");
+
+    mots.addMot("Être pionnier avec toi, ça a vraiment été une bénédiction. Cette période me manque, j'ai l'impression qu'on est moins \"pionnier ensemble\" depuis. Il faut dire que pendant le confinement, je n'ai pas été très présent en prédication.",
+    "2022-11-28", 
+    "Photos/photo_46.jpg");
+
+    mots.addMot("Décorer l'appartement, c'est quelque chose qu'on a pu faire tous les deux. Et c'était une réussite, non ?",
+    "2022-11-29", 
+    "Photos/photo_47.jpg");
+
+    mots.addMot("On a pas eu des années faciles, mais c'était des années merveilleuses. Je ne regrette aucun de ces moment, j'ai aimé les vivre avec toi.",
+    "2022-11-30", 
+    "Photos/photo_53.jpg");
+
+    mots.addMot("",
+    "2022-12-01", 
+    "Photos/photo_.jpg");
+
+    mots.addMot("",
+    "2022-12-02", 
+    "Photos/photo_.jpg");
+
+    mots.addMot("",
+    "2022-12-03", 
+    "Photos/photo_.jpg");
+
+    mots.addMot("",
+    "2022-12-04", 
+    "Photos/photo_.jpg");
+
+    mots.addMot("",
+    "2022-12-05", 
+    "Photos/photo_.jpg");
+
+    mots.addMot("",
+    "2022-12-06", 
+    "Photos/photo_.jpg");
+
+    mots.addMot("",
+    "2022-12-07", 
+    "Photos/photo_.jpg");
+
+    mots.addMot("",
+    "2022-12-08", 
+    "Photos/photo_.jpg");
+
+    mots.addMot("",
+    "2022-12-09", 
+    "Photos/photo_.jpg");
+
+    mots.addMot("",
+    "2022-12-10", 
+    "Photos/photo_.jpg");
+
+    mots.addMot("",
+    "2022-12-11", 
+    "Photos/photo_.jpg");
+
+    mots.addMot("",
+    "2022-12-01", 
+    "Photos/photo_.jpg");
+
+
 document.getElementById("mots").innerHTML = mots.derniersMotsAsHtml;
