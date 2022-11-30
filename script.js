@@ -179,99 +179,133 @@ mots.addMot("Happy 2 ans de mariage ma chérie ! Je t'aime.",
     "2021-12-21", 
     "Photos/photo_33.jpg");
 
-mots.addMot("Excuse moi pour hier soir s'il te plaît. Je t'aime ❤️", "2022-08-14", "Photos/photo_1.jpg");
-
-
-
-
+mots.addMot("Excuse moi pour hier soir s'il te plaît. Je t'aime ❤️", 
+    "2022-08-14", 
+    "Photos/photo_1.jpg");
 
 mots.addMot("Joyeux 2 ans et 11 mois de mariage ma chérie !",
     "2022-11-21", 
-    "Photos/photo_40.jpg");
+    "Photos/photo_40.jpg");²
 
 mots.addMot("Je veux te rappeler quelques bons souvenirs de nos trois années bientôt révolues",
     "2022-11-22", 
     "Photos/photo_41.jpg");
 
-    mots.addMot("On avait prévu Venise la première année ! Au début c'était même une surprise que je te faisais. Mais le covid est passé par là...",
+mots.addMot("On avait prévu Venise la première année ! Au début c'était même une surprise que je te faisais. Mais le covid est passé par là...",
     "2022-11-23", 
     "Photos/photo_43.jpg");
 
-    mots.addMot("Moi, j'ai beaucoup aimé cet anniversaire de mariage. J'étais heureux de cuisiner pour toi, et j'ai été très heureux de passer deux semaines rien qu'avec toi, ça m'a rappelé notre voyage de noce.",
+mots.addMot("Moi, j'ai beaucoup aimé cet anniversaire de mariage. J'étais heureux de cuisiner pour toi, et j'ai été très heureux de passer deux semaines rien qu'avec toi, ça m'a rappelé notre voyage de noce.",
     "2022-11-24", 
     "Photos/photo_44.jpg");
 
-    mots.addMot("Tu étais très stressée durant cette journée du 21/20, comme souvent lors de nos dates importante. C'est allé croissant, heureusement que tu as eu chaton !",
+mots.addMot("Tu étais très stressée durant cette journée du 21/20, comme souvent lors de nos dates importante. C'est allé croissant, heureusement que tu as eu chaton !",
     "2022-11-25", 
     "Photos/photo_48.jpg");
 
-    mots.addMot("Le confinement, moi je l'ai beaucoup aimé. C'est le seul long moment dont on a pu profiter tous les deux je crois ?",
+mots.addMot("Le confinement, moi je l'ai beaucoup aimé. C'est le seul long moment dont on a pu profiter tous les deux je crois ?",
     "2022-11-26", 
     "Photos/photo_42.jpg");
 
-    mots.addMot("Et puis bien sure, pendant ce confinement on a eu nos cours de pionnier !",
+mots.addMot("Et puis bien sure, pendant ce confinement on a eu nos cours de pionnier !",
     "2022-11-27", 
     "Photos/photo_45.jpg");
 
-    mots.addMot("Être pionnier avec toi, ça a vraiment été une bénédiction. Cette période me manque, j'ai l'impression qu'on est moins \"pionnier ensemble\" depuis. Il faut dire que pendant le confinement, je n'ai pas été très présent en prédication.",
+mots.addMot("Être pionnier avec toi, ça a vraiment été une bénédiction. Cette période me manque, j'ai l'impression qu'on est moins \"pionnier ensemble\" depuis. Il faut dire que pendant le confinement, je n'ai pas été très présent en prédication.",
     "2022-11-28", 
     "Photos/photo_46.jpg");
 
-    mots.addMot("Décorer l'appartement, c'est quelque chose qu'on a pu faire tous les deux. Et c'était une réussite, non ?",
+mots.addMot("Décorer l'appartement, c'est quelque chose qu'on a pu faire tous les deux. Et c'était une réussite, non ?",
     "2022-11-29", 
     "Photos/photo_47.jpg");
 
-    mots.addMot("On a pas eu des années faciles, mais c'était des années merveilleuses. Je ne regrette aucun de ces moment, j'ai aimé les vivre avec toi.",
+mots.addMot("On a pas eu des années faciles, mais c'était des années merveilleuses. Je ne regrette aucun de ces moment, j'ai aimé les vivre avec toi.",
     "2022-11-30", 
     "Photos/photo_53.jpg");
 
-    mots.addMot("",
+mots.addMot("Même si je plaisante parfois sur le sujet, je t'aime, je te trouve magnifique et il n'y a que toi que je regarde.",
     "2022-12-01", 
-    "Photos/photo_.jpg");
+    "Photos/photo_39.jpg");
 
-    mots.addMot("",
+mots.addMot("Je veux te dire qu'il y a une phrase à laquelle je pense souvent. 'Certains prétendent qu'ils sont prêt à donner leur vie pour leur femme, mais ils ne sont pas prêt à consacret leur vie pour elle'.",
     "2022-12-02", 
-    "Photos/photo_.jpg");
+    "Photos/photo_35.jpg");
 
-    mots.addMot("",
+mots.addMot("J'y pense souvent, et chaque jour j'essaye de rendre ta vie plus belle",
     "2022-12-03", 
-    "Photos/photo_.jpg");
+    "Photos/photo_51.jpg");
 
-    mots.addMot("",
+mots.addMot("Je sais que ces derniers temps je me suis beaucoup moins consacré à nos 21 et à des cadeaux pour toi. Ce n'est pas par désintérêt ma chérie. Je me suis simplement concentré sur d'autres choses dans notre couple.",
     "2022-12-04", 
-    "Photos/photo_.jpg");
+    "Photos/photo_55.jpg");
 
-    mots.addMot("",
+mots.addMot("Il y a fallut, déjà apprendre à vivre avec toutes ces nouveautées chez toi, et donc chez nous. Tu ne l'a pas toujours vu mais ça m'a demandé beaucoup de temps et d'efforts. Je me sentais la tête complètement ailleurs pour nos deux ans.",
     "2022-12-05", 
-    "Photos/photo_.jpg");
+    "Photos/photo_34.jpg");
 
-    mots.addMot("",
+mots.addMot("Ensuite, il y a nos habitudes en ce moment, le chalet, la reprise de l'étude familiale.",
     "2022-12-06", 
-    "Photos/photo_.jpg");
+    "Photos/photo_62.jpg");
 
-    mots.addMot("",
+mots.addMot("Je suis heureux que nos problèmes avancent, et je suis heureux que l'on reconsolide notre couple dans cette situation... Nouvelle.",
     "2022-12-07", 
-    "Photos/photo_.jpg");
+    "Photos/photo_54.jpg");
 
-    mots.addMot("",
+mots.addMot("Je t'aime ma chérie, tu es magnifique. Je suis fier que tu sois ma femme.",
     "2022-12-08", 
-    "Photos/photo_.jpg");
+    "Photos/photo_60.jpg");
 
-    mots.addMot("",
+mots.addMot("Cette année, on a encore passé plein de bons moments...",
     "2022-12-09", 
-    "Photos/photo_.jpg");
+    "Photos/photo_49.jpg");
 
-    mots.addMot("",
+mots.addMot("De super vacances avec mes parents, Paul et Mathilde... Même si ce n'est pas toujours simple ou parfait, c'est une super famille.",
     "2022-12-10", 
-    "Photos/photo_.jpg");
+    "Photos/photo_38.jpg");
 
-    mots.addMot("",
+mots.addMot("C'est l'année ou tu es devenue forte en snowboard ! Faire du snow avec toi c'est un bonheur ma chérie.",
     "2022-12-11", 
+    "Photos/photo_37.jpg");
+
+mots.addMot("Je sais qu'on aura vite l'occasion d'en refaire. On peut même refaire un voyage de noce à Morzine !",
+    "2022-12-12", 
+    "Photos/photo_36.jpg");
+
+mots.addMot("Les vacances à Marseille chez Priss et Geoffrey. Poissou ?",
+    "2022-12-13", 
+    "Photos/photo_56.jpg");
+
+mots.addMot("Et évidemment, c'est pareil. Malgré les difficultés, dont certaines à ces vacances, ta famille nous aime et je sais qu'on pourra toujours compter sur eux.",
+    "2022-12-14", 
+    "Photos/photo_58.jpg");
+
+mots.addMot("Alors je sais qu'on retournera souvent à Marseille, profiter de cette magnifique création, et j'ai hâte.",
+    "2022-12-15", 
+    "Photos/photo_57.jpg");
+
+mots.addMot("Je sens qu'on a déjà terminé une phase de la vie. Celle des mariages, des jeunes couples, celle du début de notre vie à deux.",
+    "2022-12-16", 
+    "Photos/photo_50.jpg");
+
+mots.addMot("Je suis heureux de faire tout plein d'activités que j'aurais boudé avant, juste pour être avec toi ma chérie, et ressérer nos liens.",
+    "2022-12-17", 
+    "Photos/photo_52.jpg");
+
+mots.addMot("J'ai l'impression de contempler notre avenir en ce moment, parce que... Déjà 3 ans. On est un vieux couple ma chérie, et je pense à notre futur, à ce que l'on vivra tous les deux.",
+    "2022-12-18", 
+    "Photos/photo_59.jpg");
+
+    //ATTENTION image à mettre
+mots.addMot("La maison, le LDC, le service. Peut être l'EER ? ",
+    "2022-12-19", 
     "Photos/photo_.jpg");
 
-    mots.addMot("",
-    "2022-12-01", 
-    "Photos/photo_.jpg");
+mots.addMot("En tous cas, aujourd'hui on va à Venise ma chérie. Ton rêve, en amoureux, et on se profite, rien que tous les deux. Pour la première fois depuis trois ans.",
+    "2022-12-20", 
+    "Photos/photo_62.jpg");
 
+mots.addMot("Bonne anniversaire de mariage ma chérie, joyeux trois ans. Je suis heureux, parce que 3 ans, c'est court. Il nous reste tellement à vivre. Je t'aime !",
+    "2022-12-21", 
+    "Photos/photo_64.jpg");
 
 document.getElementById("mots").innerHTML = mots.derniersMotsAsHtml;
