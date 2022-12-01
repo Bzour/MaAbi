@@ -185,7 +185,7 @@ mots.addMot("Excuse moi pour hier soir s'il te plaît. Je t'aime ❤️",
 
 mots.addMot("Joyeux 2 ans et 11 mois de mariage ma chérie !",
     "2022-11-21", 
-    "Photos/photo_40.jpg");²
+    "Photos/photo_40.jpg");
 
 mots.addMot("Je veux te rappeler quelques bons souvenirs de nos trois années bientôt révolues",
     "2022-11-22", 
