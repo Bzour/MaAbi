@@ -298,7 +298,7 @@ mots.addMot("J'ai l'impression de contempler notre avenir en ce moment, parce qu
     //ATTENTION image à mettre
 mots.addMot("La maison, le LDC, le service. Peut être l'EER ? ",
     "2022-12-19", 
-    "Photos/photo_.jpg");
+    "Photos/photo_65.jpg");
 
 mots.addMot("En tous cas, aujourd'hui on va à Venise ma chérie. Ton rêve, en amoureux, et on se profite, rien que tous les deux. Pour la première fois depuis trois ans.",
     "2022-12-20", 
